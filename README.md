@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harivaradhan
-- 👀 I’m interested in programing
+- 👀 I’m interested in programing and web development
 - 🌱 I’m currently learning python
 - 📫 How to reach me 
 <!---
