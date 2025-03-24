@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **front-end projects**
 
-- 🌱 I’m currently learning **Node.js**
+-currently looking for job/Internship for web developer position
 
 - 📫 How to reach me **m.harivaradhan.12345@gmail.com**
 
