@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently improving my **React, JavaScript, and Java Full-Stack** skills
+- 🌱 Currently looking for job/Internship on software development 
 - 👨‍💻 Worked on multiple real-world projects including:  
   - Full-Stack Skill-Tracking Application  
   - Java JDBC-based Food Ordering System  
