@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M HARI VARADHAN</h1>
-<h3 align="center">Frontend Developer | Java Full Stack | React Enthusiast</h3>
+<h3 align="center"> Java Full Stack Developer| React Enthusiast</h3>
 
 🚀 Passionate Web Developer from India  
 🔍 Actively seeking **Frontend / Full-Stack Developer** roles  
