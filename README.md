@@ -9,13 +9,13 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently looking for job/Internship on software development 
+- 💼 Looking for opportunities to grow as a **Web Developer / SDE Intern**
 - 👨‍💻 Worked on multiple real-world projects including:  
   - Full-Stack Skill-Tracking Application  
   - Java JDBC-based Food Ordering System  
   - Panoramic Image Generation System  
   - Netflix Clone (React)
-- 💼 Looking for opportunities to grow as a **Web Developer / SDE Intern**
+
 
 ---
 
